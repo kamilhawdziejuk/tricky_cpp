@@ -83,10 +83,10 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DefaultParameters.cpp" />
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="TrickyCpp.cpp" />
-    <ClCompile Include="VirtualMethodInConstr.cpp" />
+    <ClCompile Include="WhatIf\DefaultParameters.cpp" />
+    <ClCompile Include="WhatIf\VirtualMethodInConstr.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
