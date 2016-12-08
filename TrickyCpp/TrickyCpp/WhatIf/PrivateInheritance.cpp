@@ -27,7 +27,7 @@ public:
 		B a1;
 		B a2;
 
-		a1.f(a2);
+		//a1.f(a2); compile error: private inheritance means is-implemented-int-terms-of NOT is-a
 	}
 
 };
