@@ -87,6 +87,7 @@
     <ClCompile Include="TrickyCpp.cpp" />
     <ClCompile Include="WhatIf\DefaultParameters.cpp" />
     <ClCompile Include="WhatIf\VirtualMethodInConstr.cpp" />
+    <ClCompile Include="WhatIf\VirtualPrivateOverride.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

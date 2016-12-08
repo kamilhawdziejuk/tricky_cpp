@@ -32,13 +32,16 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TrickyCpp.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="WhatIf\DefaultParameters.cpp">
       <Filter>Source Files\WhatIf</Filter>
     </ClCompile>
     <ClCompile Include="WhatIf\VirtualMethodInConstr.cpp">
+      <Filter>Source Files\WhatIf</Filter>
+    </ClCompile>
+    <ClCompile Include="TrickyCpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WhatIf\VirtualPrivateOverride.cpp">
       <Filter>Source Files\WhatIf</Filter>
     </ClCompile>
   </ItemGroup>
