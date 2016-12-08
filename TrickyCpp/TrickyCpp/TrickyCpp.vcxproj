@@ -86,6 +86,7 @@
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="TrickyCpp.cpp" />
     <ClCompile Include="WhatIf\DefaultParameters.cpp" />
+    <ClCompile Include="WhatIf\PrivateInheritance.cpp" />
     <ClCompile Include="WhatIf\VirtualMethodInConstr.cpp" />
     <ClCompile Include="WhatIf\VirtualPrivateOverride.cpp" />
   </ItemGroup>

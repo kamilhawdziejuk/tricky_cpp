@@ -44,5 +44,8 @@
     <ClCompile Include="WhatIf\VirtualPrivateOverride.cpp">
       <Filter>Source Files\WhatIf</Filter>
     </ClCompile>
+    <ClCompile Include="WhatIf\PrivateInheritance.cpp">
+      <Filter>Source Files\WhatIf</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
